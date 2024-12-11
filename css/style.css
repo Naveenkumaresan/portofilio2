@@ -792,6 +792,7 @@ border-bottom: 4px solid lightcoral;
 }
 .exp p{
     font-size: 20px;
+    text-align: justify;
 }
 @media screen and (max-width:768px) {
     .exp{
@@ -816,6 +817,7 @@ border-bottom: 4px solid lightcoral;
     }
     .exp p{
         font-size: 1.1em;
+        text-align: start;
     }
 }
 /*  */
